@@ -1,0 +1,30 @@
+D:\others\учеба\ООП\2\Figures\bin\Debug\Figures.dll
+D:\others\учеба\ООП\2\Figures\bin\Debug\Figures.pdb
+D:\others\учеба\ООП\2\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\2\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\2\Figures\obj\Debug\Figures.dll
+D:\others\учеба\ООП\2\Figures\obj\Debug\Figures.pdb
+D:\others\учеба\ООП\Уткин\3\Figures\bin\Debug\Figures.dll
+D:\others\учеба\ООП\Уткин\3\Figures\bin\Debug\Figures.pdb
+D:\others\учеба\ООП\Уткин\3\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\Уткин\3\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\Уткин\3\Figures\obj\Debug\Figures.dll
+D:\others\учеба\ООП\Уткин\3\Figures\obj\Debug\Figures.pdb
+D:\others\учеба\ООП\others\Уткин\3\Figures\bin\Debug\Figures.dll
+D:\others\учеба\ООП\others\Уткин\3\Figures\bin\Debug\Figures.pdb
+D:\others\учеба\ООП\others\Уткин\3\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\others\Уткин\3\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\others\Уткин\3\Figures\obj\Debug\Figures.dll
+D:\others\учеба\ООП\others\Уткин\3\Figures\obj\Debug\Figures.pdb
+D:\others\учеба\ООП\others\Уткин\4\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\others\Уткин\4\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\others\Уткин\4\Figures\obj\Debug\Figures.dll
+D:\others\учеба\ООП\others\Уткин\4\Figures\obj\Debug\Figures.pdb
+D:\others\учеба\ООП\others\Уткин\4\Figures\bin\Debug\Figures.dll
+D:\others\учеба\ООП\others\Уткин\4\Figures\bin\Debug\Figures.pdb
+C:\Users\Revop\Desktop\лабы ооп\4\Figures\bin\Debug\Figures.dll
+C:\Users\Revop\Desktop\лабы ооп\4\Figures\bin\Debug\Figures.pdb
+C:\Users\Revop\Desktop\лабы ооп\4\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\Revop\Desktop\лабы ооп\4\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\Revop\Desktop\лабы ооп\4\Figures\obj\Debug\Figures.dll
+C:\Users\Revop\Desktop\лабы ооп\4\Figures\obj\Debug\Figures.pdb
