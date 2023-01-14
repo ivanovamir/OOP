@@ -14,3 +14,19 @@ D:\others\учеба\ООП\Уткин\Lab1\obj\Debug\Lab1.Task23.resources
 D:\others\учеба\ООП\Уткин\Lab1\obj\Debug\Lab1.Task43.resources
 D:\others\учеба\ООП\Уткин\Lab1\obj\Debug\Lab1.Task48.resources
 D:\others\учеба\ООП\Уткин\Lab1\obj\Debug\Lab1.Task73.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\bin\Debug\Lab1.exe
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Task18.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Task23.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Task43.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Task48.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.Task73.resources
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.exe
+C:\Users\Revop\Desktop\гит лабы\OOP-c-\Lab1\obj\Debug\Lab1.pdb
